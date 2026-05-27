@@ -34,3 +34,4 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+python fixed_yogyank_training.py
